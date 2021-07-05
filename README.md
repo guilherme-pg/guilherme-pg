@@ -1,13 +1,13 @@
 <h1>
   Hello there!<br/>
-  Guilherme Peixoto Guimarães
+  I'm Guilherme Peixoto Guimarães
 </h1>
 <br/>
 
 
-📫 reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20PGuimarães-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-pguimar%C3%A3es/)](https://www.linkedin.com/in/guilherme-pguimar%C3%A3es/) 
-[![Gmail Badge](https://img.shields.io/badge/-gvmmpg@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=red&link=malito:gvmmpg@gmail.com)](mailto:gvmmpg@gmail.com)
+📫 reach me:<br/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-pguimar%C3%A3es/)](https://www.linkedin.com/in/guilherme-pguimar%C3%A3es/)
+[![Gmail Badfe](https://img.shields.io/badge/-gvmmpg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gvmmpg@gmail.com)](mailto:gvmmpg@gmail.com)
 
 <p>
 I started programming in the mid-2020s and, over that time, I've mainly immersed myself in web development with Javascript.<br/>
