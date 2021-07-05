@@ -1,9 +1,9 @@
-## Hello there!
-## Guilherme Peixoto Guimarães
+Hello there!
+Guilherme Peixoto Guimarães
 
 📫 reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20PGuimarães-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-pguimar%C3%A3es/)](https://www.linkedin.com/in/guilherme-pguimar%C3%A3es/) 
-[![Gmail Badge](https://img.shields.io/badge/-gvmmpg@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gvmmpg@gmail.com)](mailto:gvmmpg@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gvmmpg@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=red:gvmmpg@gmail.com)](mailto:gvmmpg@gmail.com)
 
 
 ### Interested and developing with some languages and tools:
