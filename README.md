@@ -1,5 +1,5 @@
 <h1>
-  Hello there!
+  Hello there!<br/>
   Guilherme Peixoto Guimarães
  <\h1>
 
@@ -9,9 +9,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20PGuimarães-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-pguimar%C3%A3es/)](https://www.linkedin.com/in/guilherme-pguimar%C3%A3es/) 
 [![Gmail Badge](https://img.shields.io/badge/-gvmmpg@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=red&link=malito:gvmmpg@gmail.com)](mailto:gvmmpg@gmail.com)
 
+<p>
 I started programming in the mid-2020s and, over that time, I've mainly immersed myself in web development with Javascript.<br/>
 Currently, I'm looking to study Python (where I started programming) and Java to increase my knowledge about programming and discover new opportunities beyond web development.<br/>
 Interested in the future to delve further into React Native and Machine Learning. 
+<\p>
+
 
 ### Interested and developing with some languages and tools:
 
